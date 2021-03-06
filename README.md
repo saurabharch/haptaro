@@ -1,6 +1,8 @@
 # Hi, I'm Kotaro 👋👨‍💻
-I'm an iOS Engineer. I love Swift.
-4 years experienced iOS Engineer working in Japan :)
+I'm an iOS Engineer.<br>
+Over 4 years ofexperience with Swift/Objective-C<br>
+I love Swift.<br>
+I'm very passionate about product.
 
 
 # Currently Interested In
