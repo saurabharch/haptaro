@@ -1,6 +1,6 @@
 # Hi, I'm Kotaro 👋👨‍💻
 I'm an iOS Engineer.<br>
-Over 4 years of experience with Swift/Objective-C<br>
+Over 4 years of experience developing a native iOS app in Swift/Objective-C<br>
 I love Swift.<br>
 I'm very passionate about product.
 
