@@ -1,14 +1,14 @@
 # Hi, I'm Kotaro 👋👨‍💻
 I'm an iOS Engineer.<br>
-Over 4 years ofexperience with Swift/Objective-C<br>
+Over 4 years of experience with Swift/Objective-C<br>
 I love Swift.<br>
 I'm very passionate about product.
 
 
 # Currently Interested In
 - SwiftUI
-- Flux/Redux
-- React/TypeScript
+- The Composable Architecture / The Elm Architecture / Redux
+- React
 
 # SNS
 - [LinkedIn](https://www.linkedin.com/in/kotaro-fukuo)
