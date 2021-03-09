@@ -11,6 +11,7 @@ I'm very passionate about product.
 - SwiftUI
 - The Composable Architecture / The Elm Architecture / Redux
 - React
+- Haskell
 
 # SNS
 - [LinkedIn](https://www.linkedin.com/in/kotaro-fukuo)
