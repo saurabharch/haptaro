@@ -13,6 +13,9 @@ I'm very passionate about product.
 - React
 - Haskell
 
+# speackerdeck
+https://speakerdeck.com/kotaro
+
 # SNS
 - [LinkedIn](https://www.linkedin.com/in/kotaro-fukuo)
 - [Twitter](https://twitter.com/haptaro)
