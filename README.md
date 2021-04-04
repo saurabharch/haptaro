@@ -11,7 +11,7 @@ I started developing mobile application back in University student as a hobby.
 [![](https://raw.githubusercontent.com/haptaro/haptaro/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # 📚Publications
-- [speackerdeck]https://speakerdeck.com/kotaro
+- [speackerdeck](https://speakerdeck.com/kotaro)
 
 # 📫How to reach me
 - [LinkedIn](https://www.linkedin.com/in/kotaro-fukuo)
